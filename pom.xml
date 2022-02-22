@@ -23,6 +23,7 @@
 
   <modules>
     <module>minio-spring</module>
+    <module>minio-spring-boot-autoconfigure</module>
   </modules>
 
   <properties>
