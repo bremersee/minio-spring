@@ -1,3 +1,3 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
 \
-org.bremersee.minio.spring.boot.MinioAutoConfiguration
+org.bremersee.minio.spring.boot.autoconfigure.MinioAutoConfiguration

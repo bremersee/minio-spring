@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.bremersee.minio.spring.boot.app;
+package org.bremersee.minio.spring.boot.autoconfigure.app;
 
 import org.springframework.boot.SpringBootConfiguration;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.bremersee.minio.spring.boot;
+package org.bremersee.minio.spring.boot.autoconfigure;
 
 import java.time.Duration;
 import javax.validation.Valid;

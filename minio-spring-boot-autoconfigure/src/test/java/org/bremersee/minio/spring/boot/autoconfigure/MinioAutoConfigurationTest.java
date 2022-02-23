@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package org.bremersee.minio.spring.boot;
+package org.bremersee.minio.spring.boot.autoconfigure;
 
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 import lombok.extern.slf4j.Slf4j;
 import org.bremersee.minio.spring.MinioOperations;
-import org.bremersee.minio.spring.boot.app.TestConfiguration;
+import org.bremersee.minio.spring.boot.autoconfigure.app.TestConfiguration;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
